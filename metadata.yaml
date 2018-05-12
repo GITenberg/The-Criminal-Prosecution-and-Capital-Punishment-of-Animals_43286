@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42108'
     url: http://www.gutenberg.org/2009/agents/42108
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43286#The-Criminal-Prosecution-and-Capital-Punishment-of-Animals
 gutenberg_issued: '2013-07-23'
 gutenberg_type: Text
 identifiers:
